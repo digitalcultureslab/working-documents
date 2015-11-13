@@ -18,7 +18,7 @@ More here
 
 **Amorphicisms and "Others"** 
 
-Lacking shape
+
 
 
 **What We'd Say to Others**
