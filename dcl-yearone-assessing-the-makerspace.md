@@ -14,7 +14,9 @@ At the same time, the name set us on a course I'm not sure we should have been o
 
 We were so incredibly fortunate to be given our space--a purpose built, brand new space--by the [New Westminster (British Columbia) River Market](http://rivermarket.ca/). I can't imagine doing this venture with anyone more gracious, patient, and helpful than the folks who run the River Market. That said, the distance between the space and the College (about 5 city blocks and over a railway bridge) has been hard to "bridge." 
 
-More here
+The bottom line is that students where I work are commuter students. They are not, typically, out in the community hanging out and living near the College. That fact alone makes it difficult to generate interest in a space that students do not encounter as part of their day-to-day interactions with the campus. Before we started this venture, I was an advocate of putting spaces like Makerspaces or Hackerspaces in the College library and that hasn't changed. If we had the facilities that would allow for a move to the library, I would jump at a transfer to that space.
+
+The other interesting sidebar is that being out in the community comes with a series of unforeseen complexities. One of the most frequent is people who recognize the branding of the Makerspace and stop by to query anyone who is in the space about the activities, policies, and general politics of the institution itself. Rather than engaging with the space as it stands, these people want to engage in a makeshift town-hall on the direction of the College or the political processes it **might** represent. The result, particular if students are staffing the space, can be an uncomfortable confrontation or clash of directions. In short, some interesting training scenarios have emerged.
 
 **Amorphicisms and "Others"** 
 
