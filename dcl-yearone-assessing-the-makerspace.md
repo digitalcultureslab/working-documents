@@ -4,7 +4,7 @@ We're a year in; it was a year ago today that we opened a space where people cou
 
 **What's in a Name?**
 
-As you can be told from the title above, one of the first issues we had with the space was what to call it. As you can see from the photo below, the space is pretty small--just over 300 square feet all in. It's also a fishbowl, but more on that in a moment. Point is, it was never going to be a Maker Space in the sense that most conversations imagine such a space to be; it was simply too small, lacked adequate ventilation, and was ill-equipped for the demands of a true Maker Space. 
+As can be told from the title above, one of the first issues we had with the space was what to call it. As you can see from the photo below, the space is pretty small--just over 300 square feet all in. It's also a fishbowl, but more on that in a moment. Point is, it was never going to be a Maker Space in the sense that most conversations imagine such a space to be; it was simply too small, lacked adequate ventilation, and was ill-equipped for the demands of a true Maker Space. 
 
 That said, we didn't really give the name much thought. We had been looking at bigger spaces and our motivation was to start a Maker Space and so that was the name we gave it in all our dialogue about the space and what eventually everyone started calling it. In hindsight, calling it a Maker Space as we did in the beginning was a mistake. It set expectations way over what we actually had and sent us on planning missions the execution of which was well beyond our means. The key takeaway here was that we really should have thought about the name more and called it a "hackerspace" or something esoteric and opaque: "digital cultures lab." Doing so would probably have meant less press and hindered our ability to capitalize on a wave of discussions about Maker Spaces, but it would have made it much easier to manage expectations. 
 
@@ -60,11 +60,4 @@ These costs will continue as is, or go up. The costs of maintenance for the mach
 
 **In the End**
 
-
-
-
-
-- Define your outcomes early and *change* them as the project gets running; work hard to keep your expectations in-line with your achievements. 
-	- Does the space actually allow for what you want to do? If not, what does it allow for? Do you want to do that? 
-- 
-
+I'm not sure I want to say whether I think the Lab has been a successful venture. It's certainly raised some interesting questions and problematized a lot of institutional processes and assumptions. At the same time, it takes up resources and I'm not sure the outcomes are worth the implementation. I think we have a long way to go before institutions of a medium size--like the College where I work--can sustain this kind of venture when it is not directly tied to program implementation or a core research concern that is spread across faculties. The Lab is in many ways the tip of the pencil, and if there's no wood in the middle to support it during periods where the leaders, like me, lose energy then it's dead in the water. All that said, there can be no doubt that the Lab has left a lasting impression on me and my approach to teaching and researching. Here's to more years to come... or not. Evens. 
