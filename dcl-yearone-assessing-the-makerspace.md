@@ -34,9 +34,7 @@ We often forget that the tools that are new tech are often incredibly portable. 
 
 In short, I think these pop-up labs and mini-sessions will be a direction we pursue with more vigour going forward. While having the space itself is certainly more sexy, and more prestigious, and generates way more press, I'm not sure it yields the results we want. 
 
-----
-
-We give our tools to other people -- the Oculus rift has been toyed with at home. 
+The other thing we wanted to do from the beginning is make emerging technology accessible to those who might not have access to it. I think we overshot when we thought of this as a priority, here's why: we didn't account for the systems of emerging technology. So, we have an Oculus Rift. But, the computer hardware needed to run the Rift was beyond the scope of all but a very few of our students and we didn't even have the in-house resources to assist--there's a rant about faculty motivation here, but I don't want to get nasty. Suffice to say, we now lend the Oculus out to whomever wants it with the caveat that they share their code when they're done. It work, but it's not what we wanted. The access mandate has changed then to a "give it to whomever can do something with it" mandate. 
 
 ---
 
